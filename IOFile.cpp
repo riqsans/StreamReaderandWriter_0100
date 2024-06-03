@@ -1,4 +1,8 @@
 #include <fstream>
 #include <iostream>
 #include <string>
-using namespace
+using namespace std;
+
+int main(){
+    
+}
