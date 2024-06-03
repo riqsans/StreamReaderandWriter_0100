@@ -27,6 +27,10 @@ int main() {
         //menulis dan memasuan nilai dari 'baris' ke dalam dile
         outfile << baris << endl;
     }
-    //selesai dalam menulis sekaranf tutup filenya
+    //selesai dalam menulis sekarang tutup filenya
     outfile.close();
+
+
+    //membuka file dalam mode membaca
+    ifstream infile;
 }
