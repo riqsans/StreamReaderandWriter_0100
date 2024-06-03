@@ -50,4 +50,7 @@ int main() {
         // tutup file tersebut setelah selesai
         infile.close();
     }
+    //jika file tidak ditemukan maka akan menampilkan ini
+    else cout << " Unable to open file";
+    return 0;
 }
